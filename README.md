@@ -7,9 +7,6 @@ I build things at the intersection of **Computer Vision**, **Full‑Stack**, and
 - 🧩 Full‑Stack: React/Node/TS, Postgres, cloud deploys
 - 📊 Data: analytics, ML prototyping, dashboards
 
-## Now
-- Shipping small tools, learning daily, keeping code clean.
-
 ## Stack
 Python · C++ · JavaScript/TypeScript · React · Node · Postgres · PyTorch · OpenCV
 
