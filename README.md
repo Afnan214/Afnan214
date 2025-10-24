@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I’m Afnan 👋
 
-<!--
-**Afnan214/Afnan214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things at the intersection of **Computer Vision**, **Full‑Stack**, and **Data Science**.
 
-Here are some ideas to get you started:
+## Interests
+- 👁️ CV: OpenCV/PyTorch, gaze & pose, real‑time apps
+- 🧩 Full‑Stack: React/Node/TS, Postgres, cloud deploys
+- 📊 Data: analytics, ML prototyping, dashboards
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Now
+- Shipping small tools, learning daily, keeping code clean.
+
+## Stack
+Python · C++ · JavaScript/TypeScript · React · Node · Postgres · PyTorch · OpenCV
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/afnan214/) · [GitHub](https://github.com/Afnan214) · [Email](mailto:afnan.ebrahim214@gmail.com)
